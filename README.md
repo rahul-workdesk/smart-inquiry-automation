@@ -49,15 +49,19 @@ The inquiry remains recorded in Google Sheets for follow-up.
 ## Workflow
 
 <img width="1291" height="483" alt="Screenshot 2026-10-07 010238" src="https://github.com/user-attachments/assets/098d6922-2d51-4265-88ac-3dc6e012d44b" />
+
 Google Sheets Trigger → JavaScript Processing → Email Notification → Google Sheets
 
 <img width="918" height="837" alt="Screenshot 2026-10-07 004718" src="https://github.com/user-attachments/assets/77b4bfbe-0ef1-4fde-80ac-42000376a227" />
+
 Customer submits name, phone number, and inquiry message
 
 <img width="717" height="382" alt="Screenshot 2026-10-07 010324" src="https://github.com/user-attachments/assets/72378650-4324-4be9-aa29-97d7c1f847d3" />
+
 Notification: New inquiries are automatically delivered to the business by email.
 
 <img width="1220" height="410" alt="Screenshot 2026-10-07 004752" src="https://github.com/user-attachments/assets/98618134-1d62-4ab1-8e3a-c2bd89556523" />
+
 Storage: Inquiry records are organized in Google Sheets for follow-up and lead management.
 
 - The inquiry form
