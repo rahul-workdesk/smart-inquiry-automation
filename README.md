@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e087e81a-4598-420b-bf91-aafa33dc8524
+
 # smart-inquiry-automation
 # Lead Capture & Email Notification Automation
 
@@ -68,3 +72,7 @@ Storage: Inquiry records are organized in Google Sheets for follow-up and lead m
 - The n8n workflow
 - The automated email notification
 - The resulting Google Sheets data
+
+https://github.com/user-attachments/assets/68432fb6-25ed-4d11-9b63-ec1e1fa23d17
+## Author
+Rahul
